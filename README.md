@@ -9,6 +9,9 @@ And in: https://github.com/eJuke/Leaflet.Canvas-Markers
 First you need to install rbush:
 `npm i rbush`
 
+Then download the file
+`text-marker-canvas.js`
+
 Then in your project do this:
 
 ```typescript

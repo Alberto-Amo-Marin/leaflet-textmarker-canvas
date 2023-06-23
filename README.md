@@ -1,6 +1,8 @@
 # leaflet-textmarker-canvas
 Repo for rendering Text (based on Leaflet Markers with divIcons) in a custom Canvas.
+
 Inspired in: https://gitee.com/panzhiyue/Leaflet-CanvasMarker
+
 And in: https://github.com/eJuke/Leaflet.Canvas-Markers
 
 # How to use it?
